@@ -1,0 +1,48 @@
+package homwork4;
+
+public class Homwork4 {
+
+   static int i = 256;
+   static byte b = (byte) i;
+
+
+   static byte bt = 78;
+   static int it = (int) bt;
+
+
+   static long l = 865974;
+   static short s = (short) l;
+
+
+   static double d = 7.55444449844;
+   static float f = (float) d;
+
+   static int intInt = 465659;
+   static double da = (double) intInt;
+
+   static float fl = (float) 35.4922;
+   static short st = (short) fl;
+
+   static long lg = 1646132841;
+   static float ft = (float) lg;
+
+   static double doe = 768.5555;
+   static byte bte = (byte) doe;
+
+
+
+
+
+
+   public static void main(String[] args) {
+        System.out.println(b);
+        System.out.println(it);
+        System.out.println(s);
+        System.out.println(f);
+        System.out.println(da);
+        System.out.println(st);
+        System.out.println(ft);
+        System.out.println(bte);
+    }
+}
+
